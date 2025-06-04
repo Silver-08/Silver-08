@@ -1,18 +1,23 @@
-<!-- Glitch-style Typing Header -->
+<!-- 🚨 MASTERPIECE README - GOLDEN RATIO DESIGN + ABSTRACT FX + ADVANCED ANIMATIONS -->
+
+<!-- ⚡ Glitch-style Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=60&lines=Hello%2C+World!;I'm+Kausik+Sarkar.;DevOps+Engineer+%7C+Cloud+Developer+%7C+System+Automator.;Automating+the+Future+One+Pipeline+at+a+Time.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=60&lines=Hello%2C+World!;I'm+Kausik+Sarkar.;DevOps+Engineer+%7C+Cloud+Developer+%7C+System+Automator.;Automating+the+Future+One+Pipeline+at+a+Time." />
 </p>
 
-<!-- Floating Animated Avatar -->
+<!-- 🌀 Floating Avatar with FX -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="120" />
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="140" style="border-radius: 50%; filter: drop-shadow(0 0 15px #00ffe7);" />
 </p>
 
-<h1 align="center">🚀 Systems. Cloud. Infrastructure as Code. Delivered.</h1>
+<!-- 🧭 Title with Morph-Effect Glow -->
+<h1 align="center" style="color: #00ffe7; text-shadow: 0 0 10px #00ffe7, 0 0 20px #00d5ff;">🚀 Systems. Cloud. Infrastructure as Code. Delivered.</h1>
 
 ---
 
-## 🧬 About Me
+<!-- 🧬 Abstract About Me (with morph style border and golden spacing) -->
+<div align="center" style="padding: 1.618rem; border: 2px solid #00f0ff; border-radius: 1.618rem; background: linear-gradient(135deg, #0f0f0f 40%, #1f1f2e 100%);">
+  
 ```yaml
 identity:
   name: "Kausik Sarkar"
@@ -26,12 +31,14 @@ identity:
   philosophy: "Everything is a graph — automate intelligently, scale responsibly."
 ```
 
+</div>
+
 ---
 
 ## 🧰 Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,bash,git,github,ansible,jenkins,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,bash,git,github,ansible,jenkins,vscode&perline=6" style="filter: drop-shadow(0 0 10px #00f0ff);">
 </p>
 
 ---
@@ -48,7 +55,7 @@ identity:
 ## 🧠 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Silver-08&theme=matrix&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Silver-08&theme=matrix&no-bg=true&margin-w=15" style="filter: hue-rotate(120deg);" />
 </p>
 
 ---
@@ -61,21 +68,21 @@ identity:
 
 ---
 
-<!-- Background animated SVG grid effect -->
+<!-- 🧊 Dynamic Abstract Background -->
 <p align="center">
-  <img src="https://www.svgbackgrounds.com/wp-content/uploads/2021/05/gridlines.svg" width="100%" />
+  <img src="https://www.svgbackgrounds.com/wp-content/uploads/2021/05/gridlines.svg" width="100%" style="opacity: 0.3;" />
 </p>
 
-<!-- 🔁 Extended looping animations -->
+<!-- 🔮 Looping Animated Showcase with Abstract Tech FX -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47n1yp81deajv5lgop9slvb9kjrmf9ax3wfyhl3j3e&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300">
-  <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300">
-  <img src="https://media.tenor.com/I6kN-6X7nhAAAAAC/programming.gif" width="300">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300">
-  <img src="https://media.tenor.com/FdSX7eWdyWgAAAAC/data-data-visualization.gif" width="300">
-  <img src="https://media.tenor.com/7N9FwA4hhE4AAAAC/code-coding.gif" width="300">
-  <img src="https://media.tenor.com/T8zW3oYMcHIAAAAC/ai-code.gif" width="300">
-  <img src="https://media.tenor.com/AlUkiGkR2j4AAAAC/working-hard.gif" width="300">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+  <img src="https://media4.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200">
+  <img src="https://media.tenor.com/I6kN-6X7nhAAAAAC/programming.gif" width="200">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="200">
+  <img src="https://media.tenor.com/FdSX7eWdyWgAAAAC/data-data-visualization.gif" width="200">
+  <img src="https://media.tenor.com/7N9FwA4hhE4AAAAC/code-coding.gif" width="200">
+  <img src="https://media.tenor.com/T8zW3oYMcHIAAAAC/ai-code.gif" width="200">
+  <img src="https://media.tenor.com/AlUkiGkR2j4AAAAC/working-hard.gif" width="200">
 </p>
 
 ---
@@ -93,6 +100,7 @@ identity:
 
 ---
 
+<!-- 🧠 Epilogue Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=00FFD9&center=true&width=800&lines=All+code+is+poetry+if+you+look+closely+enough.;Reality+is+built+from+scripts+and+systems." />
 </p>
