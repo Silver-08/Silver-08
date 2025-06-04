@@ -1,9 +1,9 @@
 <!-- 🌌 Typing Effect with Glitch & Glow -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Hello,+World!;I'm+Kausik+Sarkar.;DevOps+Engineer;Cloud+Native+Developer;Systems+Thinker;Automating+Infrastructure+That+Scales."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&height=80&lines=Hello,+World!;I'm+Kausik+Sarkar.;DevOps+Engineer;Cloud+Native+Developer;Systems+Thinker;Automating+Infrastructure+That+Scales."/>
 </p>
 
-<!-- 🌀 Floating Glitch Avatar -->
+<!-- 🌀 Tech-Themed Animated Avatar -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kroim/profile-assets/main/code-matrix-animation.gif" width="160" />
 </p>
@@ -22,7 +22,19 @@ identity:
     - Scaling systems on AWS
     - Observability & CI/CD
     - Thinking in Systems
-  tools: [Terraform, Jenkins, GitHub Actions, CloudFormation, Docker, Kubernetes, Prometheus, Grafana, AWS, Linux, Ansible, Java]
+  tools:
+    - Terraform
+    - Jenkins
+    - GitHub Actions
+    - CloudFormation
+    - Docker
+    - Kubernetes
+    - Prometheus
+    - Grafana
+    - AWS
+    - Linux
+    - Ansible
+    - Java
   philosophy: "Everything is a graph — automate intelligently, scale responsibly."
 ```
 
@@ -55,12 +67,12 @@ identity:
 
 ---
 
-<!-- 🎨 Abstract & Artistic Section Divider -->
+<!-- 🎨 Artistic Section Divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
-<!-- 🎆 DevOps & Abstract Animation Replacements -->
+<!-- 🎆 Artistic/DevOps Theme GIFs -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/infra-glow.gif" width="300">
   <img src="https://raw.githubusercontent.com/the-ethan-hunt/awesome-coding-profile-assets/main/assets/pipeline-loop.gif" width="300">
