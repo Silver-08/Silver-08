@@ -1,11 +1,11 @@
 <!-- 🌌 Typing Effect with Glitch & Glow -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+World!;I'm+Kausik+Sarkar.;DevOps+Engineer+%7C+Cloud+Native+Developer+%7C+Systems+Thinker.;Building+Automated+Infrastructure+That+Scales."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Hello,+World!;I'm+Kausik+Sarkar.;DevOps+Engineer;Cloud+Native+Developer;Systems+Thinker;Automating+Infrastructure+That+Scales."/>
 </p>
 
 <!-- 🌀 Floating Glitch Avatar -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohc1fq5VYaXlp5nYs/giphy.gif" width="160" />
+  <img src="https://raw.githubusercontent.com/kroim/profile-assets/main/code-matrix-animation.gif" width="160" />
 </p>
 
 <h1 align="center">🧠 Systems. Cloud. Infrastructure. Automated Elegantly.</h1>
