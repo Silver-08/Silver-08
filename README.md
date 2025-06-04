@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Kausik+Sarkar.;DevOps+Engineer+%7C+Cloud+Developer+%7C+Seeker+of+Truth.;Building+from+Curiosity+and+Wonder.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Kausik+Sarkar.; DevOps+Engineer+%7C+Cloud+Developer+%7C+Seeker+of+Truth.;Building+from+Curiosity+and+Wonder.">
 </p>
 
 <!-- Animated Avatar -->
