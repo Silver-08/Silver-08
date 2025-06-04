@@ -1,74 +1,104 @@
-<h1 align="center">Hi 👋, I'm Kausik Sarkar</h1>
-<h3 align="center">Cloud Engineer Intern | Python Developer | AWS Enthusiast | Lifelong Learner</h3>
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Kausik+Sarkar.;Python+Developer+%7C+Cloud+Explorer+%7C+Seeker+of+Truth.;Building+from+Curiosity+and+Wonder.">
+</p>
+
+<!-- Animated Avatar -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
+</p>
+
+<h1 align="center">🌌 Welcome to My World of Code, Thought, and Cloud ☁️</h1>
+
+---
+
+## 👁️‍🗨️ Who Am I?
+```diff
++ 🌟 Self-driven explorer of technology, consciousness, and complex systems.
++ 🧠 Love combining logic, art, and science into real-world projects.
++ 🐍 Experienced in Python, Linux, Cloud (AWS), SQL, and scripting.
++ 🔭 Building a future through imagination, architecture, and experimentation.
+```
+
+---
+
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hi+I'm+Kausik+Sarkar!;AWS+Cloud+Engineer+Intern;Python+%7C+Linux+%7C+DevOps+Learner;Loves+Technology+%26+Problem+Solving!" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=python,aws,linux,docker,kubernetes,mysql,git,github,vscode,html,css,js" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
+## 📊 GitHub Stats Universe
 
-### 💫 About Me:
-- 🔭 I’m currently working as an **AWS Cloud Engineer Intern** at **F13 Technologies**
-- 🌱 I’m learning **DevOps, Linux Administration, and Full-Stack Cloud Projects**
-- 💬 Ask me about **AWS, Python, DBMS, SQL, and Cloud Projects**
-- 🧠 Obsessed with understanding **philosophy, science, and human behavior**
-- ⚡ Fun fact: I think through systems and metaphors, and believe **every science is a proven philosophy**
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Silver-08&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Silver-08&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,python,linux,bash,docker,kubernetes,git,github,vscode,html,css,js,mysql" />
-</p>
+## 🧠 Trophies of Exploration
 
----
-
-### 📈 GitHub Stats:
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Silver-08&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Silver-08&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Silver-08&theme=darkhub&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
+## 🔥 Cosmic Contribution Heatmap
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Silver-08&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Silver-08&theme=dracula&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 🔥 Contribution Graph:
+## 🌐 Connect with the Signal
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Silver-08&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/kausik-sarkar-0a6832263" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  <a href="mailto:eveningwoods2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="mailto:eveningwoods2001@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://linkedin.com/in/kausik-sarkar-0a6832263">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
 ---
 
-### 📂 Featured Projects:
-Coming soon... 😉
+## 📂 Projects [Click to Expand 🔽]
+
+<details>
+<summary><b>🔧 IT Service Recommendation System (AWS Personalize)</b></summary>
+
+- 🧠 Built with: Python, AWS Lambda, Personalize, S3, API Gateway
+- 🗂️ Features: Real-time personalization, scalable recommendations
+- 📊 Includes: Cost analysis, architectural diagrams, deployment pipelines
+
+</details>
+
+<details>
+<summary><b>🍱 Omnifood Website</b></summary>
+
+- 🚀 HTML, CSS, JavaScript
+- 📱 Fully responsive design
+- 💡 Concept: Healthy meal delivery powered by modern design
+
+</details>
 
 ---
 
-### ✨ Quote I Live By:
-> *“Meaning is something we create — like knitting a sweater into the fabric of life.”*
-
----
+## 🌠 Quote That Guides Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Happy+Coding+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=F7F7F7&center=true&width=800&lines=Meaning+is+not+found.;It+is+knit+into+existence+by+our+own+hands." />
+</p>
+
+---
+
+<h3 align="center">Thanks for Visiting! 👨‍🚀</h3>
+<p align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400"/>
 </p>
