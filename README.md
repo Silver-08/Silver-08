@@ -68,12 +68,12 @@ identity:
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
-<!-- 🎆 DevOps & Code Art Looping Animation -->
+<!-- 🎆 DevOps & Abstract Animation Replacements -->
 <p align="center">
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="250">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="250">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250">
+  <img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/infra-glow.gif" width="300">
+  <img src="https://raw.githubusercontent.com/the-ethan-hunt/awesome-coding-profile-assets/main/assets/pipeline-loop.gif" width="300">
+  <img src="https://raw.githubusercontent.com/the-ethan-hunt/awesome-coding-profile-assets/main/assets/dashboard-visualizer.gif" width="300">
+  <img src="https://raw.githubusercontent.com/the-ethan-hunt/awesome-coding-profile-assets/main/assets/glow-diagram.gif" width="300">
 </p>
 
 ---
