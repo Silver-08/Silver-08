@@ -1,5 +1,3 @@
-<!-- Animated Abstract DevOps Themed README -->
-
 <!-- 🌌 Typing Effect with Glitch & Glow -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+World!;I'm+Kausik+Sarkar.;DevOps+Engineer+%7C+Cloud+Native+Developer+%7C+Systems+Thinker.;Building+Automated+Infrastructure+That+Scales."/>
@@ -36,29 +34,23 @@ identity:
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigobdz/rodrigobdz/main/assets/techstack-warp.gif" width="800" />
+  <img src="https://raw.githubusercontent.com/kroim/profile-assets/main/code-matrix-animation.gif" width="800" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats, 🔥 Activity & 🧠 Achievements
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Silver-08&theme=radical&show_icons=true&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Silver-08&theme=radical&hide_border=true" />
 </div>
 
----
-
-## 🧠 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Silver-08&theme=darkhub&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## 🔥 Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Silver-08&theme=dracula&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Silver-08&theme=darkhub&no-bg=true&margin-w=15" />
 </p>
 
 ---
