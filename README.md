@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Kausik+Sarkar.;Python+Developer+%7C+Cloud+Explorer+%7C+Seeker+of+Truth.;Building+from+Curiosity+and+Wonder.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Kausik+Sarkar.;DevOps+Engineer+%7C+Cloud+Developer+%7C+Seeker+of+Truth.;Building+from+Curiosity+and+Wonder.">
 </p>
 
 <!-- Animated Avatar -->
@@ -15,9 +15,9 @@
 ## 👁️‍🗨️ Who Am I?
 ```diff
 + 🌟 Self-driven explorer of technology, consciousness, and complex systems.
-+ 🧠 Love combining logic, art, and science into real-world projects.
-+ 🐍 Experienced in Python, Linux, Cloud (AWS), SQL, and scripting.
-+ 🔭 Building a future through imagination, architecture, and experimentation.
++ 🧠 Passionate about automating the cloud and creating scalable systems.
++ 🧩 DevOps Enthusiast | Terraform | CI/CD | Cloud Architecture
++ ☁️ AWS Cloud Developer leveraging the power of the cloud to solve real-world problems.
 ```
 
 ---
@@ -25,7 +25,7 @@
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,linux,docker,kubernetes,mysql,git,github,vscode,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git,github,terraform,jenkins,ansible,vscode,python" />
 </p>
 
 ---
@@ -55,6 +55,16 @@
 
 ---
 
+## 🌀 DevOps Vibe Animation
+
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="300">
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="300">
+</p>
+
+---
+
 ## 🌐 Connect with the Signal
 
 <p align="center">
@@ -68,28 +78,6 @@
 
 ---
 
-## 📂 Projects [Click to Expand 🔽]
-
-<details>
-<summary><b>🔧 IT Service Recommendation System (AWS Personalize)</b></summary>
-
-- 🧠 Built with: Python, AWS Lambda, Personalize, S3, API Gateway
-- 🗂️ Features: Real-time personalization, scalable recommendations
-- 📊 Includes: Cost analysis, architectural diagrams, deployment pipelines
-
-</details>
-
-<details>
-<summary><b>🍱 Omnifood Website</b></summary>
-
-- 🚀 HTML, CSS, JavaScript
-- 📱 Fully responsive design
-- 💡 Concept: Healthy meal delivery powered by modern design
-
-</details>
-
----
-
 ## 🌠 Quote That Guides Me
 
 <p align="center">
@@ -100,5 +88,5 @@
 
 <h3 align="center">Thanks for Visiting! 👨‍🚀</h3>
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400"/>
+  <img src="https://media.tenor.com/AlUkiGkR2j4AAAAC/working-hard.gif" width="300"/>
 </p>
